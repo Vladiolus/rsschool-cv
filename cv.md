@@ -1,8 +1,7 @@
-### Uladzislau Vashkevich
+## Uladzislau Vashkevich
 
-E-mail: uda4a.vlad@mail.ru
+E-mail: <uda4a.vlad@mail.ru>
 
----
 Trying myself in this area seems like an interesting experience.
 
 Skills:
